@@ -155,7 +155,7 @@ a:active {
   max-width: 960px;
 }
 
-.wildlife {
+.insert {
   width: 75%;
   padding-left: 50px;
   padding-right: 50px;
@@ -171,16 +171,16 @@ a:active {
 
 /* Floated Columns ------------------ */
 
-.resorts,
-.tips {
+.worksRt,
+.worksLt {
   width: 46.5%;
 }
 
-.tips {
+.worksLt {
   float: left;
 }
 
-.resorts {
+.worksRt {
   float: right;
 }
 
@@ -223,7 +223,7 @@ background:seagreen;
   .secondary-content {
   width: 90%
   }
-  .wildlife {
+  .insert {
   width: 90%;
   padding: 10% 12%;
   margin: 50px 0 20px;
@@ -256,8 +256,8 @@ background:seagreen;
   .intro {
   font-size: 1rem;
 }
-  .resorts,
-  .tips {
+  .worksRt,
+  .worksLt {
   float: none;
   width: 100%;
 }
